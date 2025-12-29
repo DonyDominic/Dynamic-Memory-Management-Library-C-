@@ -1,3 +1,4 @@
 v1_*
+v1_mmalloc.c
 .vscode
 test_main
